@@ -7,8 +7,8 @@ function App() {
 
   const profils = [
     {
-      firstName: "Tarek",
-      lastName: "Touati",
+      firstName: "Akram",
+      lastName: "Meliou",
       profession: "Web developer",
       bio: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       image: "profil.jpg"
